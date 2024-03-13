@@ -1,0 +1,403 @@
+- ? ''
+  : '0'
+  answer: For 4 people, marinate prawns for 1 hour in the above ingredients. Grill
+    on medium heat in an oven for 5-7 minutes.
+  context: "[\"\xBD capsicum + 1 green chilli + \xBD cup  water measured in big sized\
+    \ co\uFB00ee mug)Khaskhas/ poppy seeds paste (8-10 tsp  poppy seeds + \xBD cup\
+    \ water  measured in big sized co\uFB00ee mug)Onion paste 1 onion\\\\nGreen chillies\
+    \ As per taste\\\\nTurmeric / haldi 1 tsp \\\\nSalt {1 tsp salt for marinating\
+    \ prawns  3 tsp  and 2 tsp salt for cooking}Red chilli powder 1 tsp \\\\nMustard\
+    \ oil 2 tsp\\\\nNote\\\\nCover the top with parchment paper to avoid ice crystal\
+    \ on top.\\\\nBACK TO INDEX', metadata={}), Document(page_content='\xBD capsicum\
+    \ + 1 green chilli + \xBD cup  water measured in big sized co\uFB00ee mug)Khaskhas/\
+    \ poppy seeds paste (8-10 tsp  poppy seeds + \xBD cup water  measured in big sized\
+    \ co\uFB00ee mug)Onion paste 1 onion\\\\nGreen chillies As per taste\\\\nTurmeric\
+    \ / haldi 1 tsp \\\\nSalt {1 tsp salt for marinating prawns  3 tsp  and 2 tsp\
+    \ salt for cooking}Red chilli powder 1 tsp \\\\nMustard oil 2 tsp\\\\nNote\\\\\
+    nCover the top with parchment paper to avoid ice crystal on top.\\\\nBACK TO INDEX\"\
+    ]"
+  question: Salt, Sugar, Spices , Garlic Onion, Sunflower Oil, Vinegar, Poha
+- ? ''
+  : '1'
+  answer: Mix raspberry compote with sugar and glucose syrup in a bowl, then stir
+    in citric acid. Cook it for 10 to 20 minutes on medium heat until it is thickened.
+    Allow to cool down to room temperature before serving."
+  context: '["hummus, beans, cheese, cream cheese, etc.)'', metadata={}), Document(page_content=''hummus,
+    beans, cheese, cream cheese, etc.)"]'
+  question: Red Raspberries,Sugar,Glucose Syrup,Citric Acid, Wheat
+- ? ''
+  : '2'
+  answer: -Tomato sauce with pesto or basil pe sto
+  context: '["-Basil pesto sauce, sliced red tomatoes, cooked an d diced chicken,
+    caramelized onions, \\nmozzarella cheese  \\n-Creamy alfredo sauce, bacon pieces,
+    cooked and diced chicken, spinach  \\n-Tomato sauce, Canadian bacon, pineapple,
+    mozzarella cheese  \\n-BBQ sauce, chicken, red onions, mozzarella cheese  \\n-Tomato
+    or basil pe sto sauce, onions, green and red peppers, mushrooms, banana peppers,
+    \\nsundried tomatoes, spinach, feta cheese  \\n-Tomato sauce, fresh mozzarella
+    slices, fresh basil'', metadata={}), Document(page_content=''-Basil pesto sauce,
+    sliced red tomatoes, cooked an d diced chicken, caramelized onions, \\nmozzarella
+    cheese  \\n-Creamy alfredo sauce, bacon pieces, cooked and diced chicken, spinach  \\n-Tomato
+    sauce, Canadian bacon, pineapple, mozzarella cheese  \\n-BBQ sauce, chicken, red
+    onions, mozzarella cheese  \\n-Tomato or basil pe sto sauce, onions, green and
+    red peppers, mushrooms, banana peppers, \\nsundried tomatoes, spinach, feta cheese  \\n-Tomato
+    sauce, fresh mozzarella slices, fresh basil"]'
+  question: Sugar,water,soy sauce,plum sauce,rice vinegar,pineapple juice ,salt,tomato
+    paste
+- ? ''
+  : '3'
+  answer: Overnight oats with nuts and seeds
+  context: "[\"\xBD cup  rolled oats  \\\\n2/3 cup milk of choice (if using soy, rice,\
+    \ almond, or another non -dairy milk use unsweetened)  \\\\n1 tbsp. chia seeds\
+    \ or ground flax seeds  \\\\n\xBD tsp. vanilla extract  \\\\nPinch of salt  \\\
+    \\nUp to 2 tbsp. honey or maple syrup  \\\\n \\\\nOptional Mix -ins (these can\
+    \ be added before refrigerating or as toppings later) : \\\\nFruit (bananas, berries\
+    \ , peaches, apple chunks ) \\\\nNut butter  \\\\nCocoa powder  \\\\nCoconut \
+    \ \\\\nNuts', metadata={}), Document(page_content='\xBD cup  rolled oats  \\\\\
+    n2/3 cup milk of choice (if using soy, rice, almond, or another non -dairy milk\
+    \ use unsweetened)  \\\\n1 tbsp. chia seeds or ground flax seeds  \\\\n\xBD tsp.\
+    \ vanilla extract  \\\\nPinch of salt  \\\\nUp to 2 tbsp. honey or maple syrup\
+    \  \\\\n \\\\nOptional Mix -ins (these can be added before refrigerating or as\
+    \ toppings later) : \\\\nFruit (bananas, berries , peaches, apple chunks ) \\\\\
+    nNut butter  \\\\nCocoa powder  \\\\nCoconut  \\\\nNuts\"]"
+  question: Rolled Oats,Brown Rice Syrup,Evaporated Cane Juice,Brown Rice Crisp Water
+- ? ''
+  : '4'
+  answer: Mix all ingredients together in saucepan. Cook until rice is done. Serve
+    hot with toast or crackers."
+  context: '["hummus, beans, cheese, cream cheese, etc.)'', metadata={}), Document(page_content=''hummus,
+    beans, cheese, cream cheese, etc.)"]'
+  question: Rice, Water, Suger, Milk, Cardamom
+- ? ''
+  : '5'
+  answer: "The first two ingredients are \xBD cup rolled oats and 2/3 cups of your\
+    \ choice milk (if using soy, rice, almond, or another non -dairy milk use unsweetened).\
+    \ Add in 1 tsp vanilla extract and a pinch of salt. If you prefer to add more\
+    \ sweetener then add the honey or maple syrup (up to 2 tbsp.) stirring until well\
+    \ mixed. Chill for at least"
+  context: "[\"\xBD cup  rolled oats  \\\\n2/3 cup milk of choice (if using soy, rice,\
+    \ almond, or another non -dairy milk use unsweetened)  \\\\n1 tbsp. chia seeds\
+    \ or ground flax seeds  \\\\n\xBD tsp. vanilla extract  \\\\nPinch of salt  \\\
+    \\nUp to 2 tbsp. honey or maple syrup  \\\\n \\\\nOptional Mix -ins (these can\
+    \ be added before refrigerating or as toppings later) : \\\\nFruit (bananas, berries\
+    \ , peaches, apple chunks ) \\\\nNut butter  \\\\nCocoa powder  \\\\nCoconut \
+    \ \\\\nNuts', metadata={}), Document(page_content='\xBD cup  rolled oats  \\\\\
+    n2/3 cup milk of choice (if using soy, rice, almond, or another non -dairy milk\
+    \ use unsweetened)  \\\\n1 tbsp. chia seeds or ground flax seeds  \\\\n\xBD tsp.\
+    \ vanilla extract  \\\\nPinch of salt  \\\\nUp to 2 tbsp. honey or maple syrup\
+    \  \\\\n \\\\nOptional Mix -ins (these can be added before refrigerating or as\
+    \ toppings later) : \\\\nFruit (bananas, berries , peaches, apple chunks ) \\\\\
+    nNut butter  \\\\nCocoa powder  \\\\nCoconut  \\\\nNuts\"]"
+  question: milk, buttermilk, canola oil
+- ? ''
+  : '6'
+  answer: "Melt chocolate and butter in a double boiler over medium heat until smooth;\
+    \ remove from heat and cool slightly. Beat eggs with 1/2 cup brown sugar and vanilla.\
+    \ Stir cocoa powder into eggs, then stir into melted chocolate mixture. Whisk\
+    \ flour into batter until well blended. Pour into 3 greased, parchment-lined mini\
+    \ loaf pans. Dust with cocoa. Bake at 350\xB0F for 25 minutes or until lightly\
+    \ browned and firm to the touch. Remove from pan carefully and let cool on wire\
+    \ rack.\""
+  context: '["Powdered Sugar 1 cup  (brown sugar + (3/4 cup + white sugar) 1/4 cup)Unsalted
+    Butter 100 g Vanilla essence 1 tsp Dark chocolate 1 cup Eggs 2 \\nCocoa powder
+    for dusting 1 tbsp \\nCREATIVITY IN ADVERSITY\\n 7\\nBACK TO INDEX'', metadata={}),
+    Document(page_content=''Powdered Sugar 1 cup  (brown sugar + (3/4 cup + white
+    sugar) 1/4 cup)Unsalted Butter 100 g Vanilla essence 1 tsp Dark chocolate 1 cup
+    Eggs 2 \\nCocoa powder for dusting 1 tbsp \\nCREATIVITY IN ADVERSITY\\n 7\\nBACK
+    TO INDEX"]'
+  question: unsalted butter, cocoa, granulated sugar, eggs, all-purpose flour
+- ? ''
+  : '7'
+  answer: 'Add 3 Tablespoons of vinegar to 2 cups of boiling water. Stir and let it
+    sit for a few minutes until the mixture thickens and reduces slightly. Pour the
+    liquid into the other ingredients and mix well before refrigerating.
+
+    To store, cover tightly and store in freezer.'
+  context: '["Baking soda 1 tsp\\nBrown sugar 1 cup\\nVanilla essence 1 tsp\\nOlive
+    oil 1/2 cup\\nMilk 1 cup\\nVinegar (you can also use  2 tsp\\n lemon juice)\\nBanana
+    (ripe) 3\\nCardamon powder 1 tsp\\nSalt 1 tsp\\nWalnuts (optional) 1/2 cup\\nBACK
+    TO INDEX'', metadata={}), Document(page_content=''Baking soda 1 tsp\\nBrown sugar
+    1 cup\\nVanilla essence 1 tsp\\nOlive oil 1/2 cup\\nMilk 1 cup\\nVinegar (you
+    can also use  2 tsp\\n lemon juice)\\nBanana (ripe) 3\\nCardamon powder 1 tsp\\nSalt
+    1 tsp\\nWalnuts (optional) 1/2 cup\\nBACK TO INDEX"]'
+  question: Almondmilk, Evaporated Cane Juice,Cocoa, Calcium Carbonate,Sea Salt
+- ? ''
+  : '8'
+  answer: Mix ingredients in bowl or food processor. Let sit at room temperature for
+    2 hours before baking in preheated oven to 350 degrees for 1 hour.
+  context: '["rice\\tflour,\\tprotein\\tisolate,\\tdried\\tand\\t\\npowdered\\tspinach,\\tcarrot;\\tskim\\tmilk\\t\\npowder,\\tsalt\\tand\\tsugar)\\n\\t
+    Mixing\\tof\\tall\\tingredients\\t Homogenization \\tthrough\\tsifting\\n\\t Packing\\n\\t
+    Storage P otato powder 28%\\n Rice flour 65%\\n Pr otein isolates 7%\\n Carr ot
+    3%\\n Spinach 3%\\n Skimmed milk 10%\\n Sug ar 10%\\n Salt 1%\\nPOT A TO FLOUR
+    BASED INF ANT  COMPLEMENT AR Y FOOD'', metadata={}), Document(page_content=''rice\\tflour,\\tprotein\\tisolate,\\tdried\\tand\\t\\npowdered\\tspinach,\\tcarrot;\\tskim\\tmilk\\t\\npowder,\\tsalt\\tand\\tsugar)\\n\\t
+    Mixing\\tof\\tall\\tingredients\\t Homogenization \\tthrough\\tsifting\\n\\t Packing\\n\\t
+    Storage P otato powder 28%\\n Rice flour 65%\\n Pr otein isolates 7%\\n Carr ot
+    3%\\n Spinach 3%\\n Skimmed milk 10%\\n Sug ar 10%\\n Salt 1%\\nPOT A TO FLOUR
+    BASED INF ANT  COMPLEMENT AR Y FOOD"]'
+  question: Barley Flour,Soybean Oil,Corn and Malt Syrup,Salt,Garlic,Yeast,Garlic
+    Oil
+- ? ''
+  : '9'
+  answer: 'Creamy Chicken Parmesan Pasta (Serves 4)
+
+    Ingredients: 1 lb. pasta, sherry, olive oil,'
+  context: '["-Basil pesto sauce, sliced red tomatoes, cooked an d diced chicken,
+    caramelized onions, \\nmozzarella cheese  \\n-Creamy alfredo sauce, bacon pieces,
+    cooked and diced chicken, spinach  \\n-Tomato sauce, Canadian bacon, pineapple,
+    mozzarella cheese  \\n-BBQ sauce, chicken, red onions, mozzarella cheese  \\n-Tomato
+    or basil pe sto sauce, onions, green and red peppers, mushrooms, banana peppers,
+    \\nsundried tomatoes, spinach, feta cheese  \\n-Tomato sauce, fresh mozzarella
+    slices, fresh basil'', metadata={}), Document(page_content=''-Basil pesto sauce,
+    sliced red tomatoes, cooked an d diced chicken, caramelized onions, \\nmozzarella
+    cheese  \\n-Creamy alfredo sauce, bacon pieces, cooked and diced chicken, spinach  \\n-Tomato
+    sauce, Canadian bacon, pineapple, mozzarella cheese  \\n-BBQ sauce, chicken, red
+    onions, mozzarella cheese  \\n-Tomato or basil pe sto sauce, onions, green and
+    red peppers, mushrooms, banana peppers, \\nsundried tomatoes, spinach, feta cheese  \\n-Tomato
+    sauce, fresh mozzarella slices, fresh basil"]'
+  question: Garlic Powder, cheese, sherry, dried parsley, dried basil, black pepper,
+    mushrooms
+- ? ''
+  : '10'
+  answer: Add 1/4 to 1/2 cup of nuts or seeds (or a combination) of your choice. Sprinkle
+    over salad immediately before serving. Enjoy!
+  context: '["Mushrooms  \\nTomatoes  \\nOlives  \\nAvocado  \\n \\nCheese : \\nShredded
+    mozzarella, Swiss, cheddar, or any other favorite  \\nCrumbled blue cheese, goat
+    cheese, or feta cheese  \\nParmesan  \\n \\nNuts/Seeds:  \\nSlivered almonds  \\nWalnuts  \\nCashews  \\nPeanuts  \\nPumpkin
+    seeds  \\nSunflower seeds'', metadata={}), Document(page_content=''Mushrooms  \\nTomatoes  \\nOlives  \\nAvocado  \\n
+    \\nCheese : \\nShredded mozzarella, Swiss, cheddar, or any other favorite  \\nCrumbled
+    blue cheese, goat cheese, or feta cheese  \\nParmesan  \\n \\nNuts/Seeds:  \\nSlivered
+    almonds  \\nWalnuts  \\nCashews  \\nPeanuts  \\nPumpkin seeds  \\nSunflower seeds"]'
+  question: Pistachios,Almonds,Cashews,Peanut and/or Cottonseed Oil,Sea Salt
+- ? ''
+  : '11'
+  answer: You can use poppy seeds paste to make prawns. Marinate it in water with
+    ginger, garlic and green chilli for
+  context: "[\"\xBD capsicum + 1 green chilli + \xBD cup  water measured in big sized\
+    \ co\uFB00ee mug)Khaskhas/ poppy seeds paste (8-10 tsp  poppy seeds + \xBD cup\
+    \ water  measured in big sized co\uFB00ee mug)Onion paste 1 onion\\\\nGreen chillies\
+    \ As per taste\\\\nTurmeric / haldi 1 tsp \\\\nSalt {1 tsp salt for marinating\
+    \ prawns  3 tsp  and 2 tsp salt for cooking}Red chilli powder 1 tsp \\\\nMustard\
+    \ oil 2 tsp\\\\nNote\\\\nCover the top with parchment paper to avoid ice crystal\
+    \ on top.\\\\nBACK TO INDEX', metadata={}), Document(page_content='\xBD capsicum\
+    \ + 1 green chilli + \xBD cup  water measured in big sized co\uFB00ee mug)Khaskhas/\
+    \ poppy seeds paste (8-10 tsp  poppy seeds + \xBD cup water  measured in big sized\
+    \ co\uFB00ee mug)Onion paste 1 onion\\\\nGreen chillies As per taste\\\\nTurmeric\
+    \ / haldi 1 tsp \\\\nSalt {1 tsp salt for marinating prawns  3 tsp  and 2 tsp\
+    \ salt for cooking}Red chilli powder 1 tsp \\\\nMustard oil 2 tsp\\\\nNote\\\\\
+    nCover the top with parchment paper to avoid ice crystal on top.\\\\nBACK TO INDEX\"\
+    ]"
+  question: Turmeric,Fenugreek,Coriander,Mustard Flour,Cumin,Gingerroot,Black Pepper,Allspice,Cayenne
+    and Fennel.
+- ? ''
+  : '12'
+  answer: '1. Steam 25 oyster in olive oil until they are cooked thru.
+
+    2. Prepare your favorite dip with whole oysters (cream cheese, hummus, etc.)
+
+    3. Serve on crackers.'
+  context: '["hummus, beans, cheese, cream cheese, etc.)'', metadata={}), Document(page_content=''hummus,
+    beans, cheese, cream cheese, etc.)"]'
+  question: Whole Oysters,Water,Salt.
+- ? ''
+  : '13'
+  answer: Rajasthani Aloo Gobi Recipe (potato, onion and cauliflower in a spicy gravy)
+  context: "[\"Small size onion /f_inely   1\\\\n chopped\\\\nCoriander leaves 25\
+    \ gmsGrated ginger 1 inch\\\\nRed chili powder \xBC tspChaat Masala \xBD tsp\\\
+    \\nFinely chopped green   1\\\\n chilli\\\\nBlack pepper powder \xBC tspMashed\
+    \ paneer 80 gmWheat /f_lour 2\xBD cup / \\\\n   320 gm \\\\nRice /f_lour \xBC\
+    \ cup \\\\nGhee 1 tbsp\\\\nGhee for prantha 4 tbspWater ..\\\\nWheat /f_lour ..\\\
+    \\nSalt As per taste\\\\nCREATIVITY IN ADVERSITY 67\\\\nBACK TO INDEX', metadata={}),\
+    \ Document(page_content='Small size onion /f_inely   1\\\\n chopped\\\\nCoriander\
+    \ leaves 25 gmsGrated ginger 1 inch\\\\nRed chili powder \xBC tspChaat Masala\
+    \ \xBD tsp\\\\nFinely chopped green   1\\\\n chilli\\\\nBlack pepper powder \xBC\
+    \ tspMashed paneer 80 gmWheat /f_lour 2\xBD cup / \\\\n   320 gm \\\\nRice /f_lour\
+    \ \xBC cup \\\\nGhee 1 tbsp\\\\nGhee for prantha 4 tbspWater ..\\\\nWheat /f_lour\
+    \ ..\\\\nSalt As per taste\\\\nCREATIVITY IN ADVERSITY 67\\\\nBACK TO INDEX\"]"
+  question: Salt,Sugar,Spices,Including Paprika,Tumeric,Onion,Corn Starch,Garlic
+- ? ''
+  : '14'
+  answer: Non Pareil Capers should be added in last 5 minutes of cooking.", "Capers
+    are pickled and packed capers from Italy that have been preserved in salt water,
+    vinegar and sometimes oil with herbs."
+  context: '["Baking soda 1 tsp\\nBrown sugar 1 cup\\nVanilla essence 1 tsp\\nOlive
+    oil 1/2 cup\\nMilk 1 cup\\nVinegar (you can also use  2 tsp\\n lemon juice)\\nBanana
+    (ripe) 3\\nCardamon powder 1 tsp\\nSalt 1 tsp\\nWalnuts (optional) 1/2 cup\\nBACK
+    TO INDEX'', metadata={}), Document(page_content=''Baking soda 1 tsp\\nBrown sugar
+    1 cup\\nVanilla essence 1 tsp\\nOlive oil 1/2 cup\\nMilk 1 cup\\nVinegar (you
+    can also use  2 tsp\\n lemon juice)\\nBanana (ripe) 3\\nCardamon powder 1 tsp\\nSalt
+    1 tsp\\nWalnuts (optional) 1/2 cup\\nBACK TO INDEX"]'
+  question: Non Pareil Capers,Water,Salt and Vinegar
+- ? ''
+  : '15'
+  answer: You can add a pinch of cinnamon to make it taste like chocolate chip cookies."
+  context: '["Baking soda 1 tsp\\nBrown sugar 1 cup\\nVanilla essence 1 tsp\\nOlive
+    oil 1/2 cup\\nMilk 1 cup\\nVinegar (you can also use  2 tsp\\n lemon juice)\\nBanana
+    (ripe) 3\\nCardamon powder 1 tsp\\nSalt 1 tsp\\nWalnuts (optional) 1/2 cup\\nBACK
+    TO INDEX'', metadata={}), Document(page_content=''Baking soda 1 tsp\\nBrown sugar
+    1 cup\\nVanilla essence 1 tsp\\nOlive oil 1/2 cup\\nMilk 1 cup\\nVinegar (you
+    can also use  2 tsp\\n lemon juice)\\nBanana (ripe) 3\\nCardamon powder 1 tsp\\nSalt
+    1 tsp\\nWalnuts (optional) 1/2 cup\\nBACK TO INDEX"]'
+  question: 'Almonds,Sugar,Cocoa Powder ,Corn Maltodextrin,Dark Chocolate,Sea Salt
+    and Rebiana '
+- ? ''
+  : '16'
+  answer: Spread hummus on each bun. Top with a slice of cheese. Add two slices of
+    beans."
+  context: '["hummus, beans, cheese, cream cheese, etc.)'', metadata={}), Document(page_content=''hummus,
+    beans, cheese, cream cheese, etc.)"]'
+  question: olive oil, onion, cheese, salt, black pepper, buns
+- ? ''
+  : '17'
+  answer: Steam broccoli for about 5 minutes before adding potato cubes to the steamer.
+    Cook until potatoes are done."
+  context: "[\"Broccoli, thick stems peeled and diced \\\\n (about 2 cups), tops cut\
+    \ into small /f_lorets 1 medium\\\\nPotato, peeled and cut into 1/2-inch cubes\
+    \ 1 small/ mediumWater  3 cups \\\\nSalt  1 \\\\n3/4 tsp\\\\nChilli /f_lakes/chilli\
+    \ powder (optional)  \xBD tspFresh-ground black pepper  1/4 tsp\\\\nGrated Parmesan\
+    \ or processed cheese  1/2 cup \\\\n (optional) (For Italian touch to the recipe)\\\
+    \\n32\\\\nBACK TO INDEX', metadata={}), Document(page_content='Broccoli, thick\
+    \ stems peeled and diced \\\\n (about 2 cups), tops cut into small /f_lorets 1\
+    \ medium\\\\nPotato, peeled and cut into 1/2-inch cubes 1 small/ mediumWater \
+    \ 3 cups \\\\nSalt  1 \\\\n3/4 tsp\\\\nChilli /f_lakes/chilli powder (optional)\
+    \  \xBD tspFresh-ground black pepper  1/4 tsp\\\\nGrated Parmesan or processed\
+    \ cheese  1/2 cup \\\\n (optional) (For Italian touch to the recipe)\\\\n32\\\\\
+    nBACK TO INDEX\"]"
+  question: sweet corn, butter, Italian seasoning
+- ? ''
+  : '18'
+  answer: Combine broccoli, garlic and onions with about a cup of water to cover in
+    a medium saucepan. Bring to boil, then reduce heat and simmer for 20 minutes or
+    until tender. Drain.
+  context: "[\"Broccoli, thick stems peeled and diced \\\\n (about 2 cups), tops cut\
+    \ into small /f_lorets 1 medium\\\\nPotato, peeled and cut into 1/2-inch cubes\
+    \ 1 small/ mediumWater  3 cups \\\\nSalt  1 \\\\n3/4 tsp\\\\nChilli /f_lakes/chilli\
+    \ powder (optional)  \xBD tspFresh-ground black pepper  1/4 tsp\\\\nGrated Parmesan\
+    \ or processed cheese  1/2 cup \\\\n (optional) (For Italian touch to the recipe)\\\
+    \\n32\\\\nBACK TO INDEX', metadata={}), Document(page_content='Broccoli, thick\
+    \ stems peeled and diced \\\\n (about 2 cups), tops cut into small /f_lorets 1\
+    \ medium\\\\nPotato, peeled and cut into 1/2-inch cubes 1 small/ mediumWater \
+    \ 3 cups \\\\nSalt  1 \\\\n3/4 tsp\\\\nChilli /f_lakes/chilli powder (optional)\
+    \  \xBD tspFresh-ground black pepper  1/4 tsp\\\\nGrated Parmesan or processed\
+    \ cheese  1/2 cup \\\\n (optional) (For Italian touch to the recipe)\\\\n32\\\\\
+    nBACK TO INDEX\"]"
+  question: broccoli,  garlic, onion, flour, water, potato
+- ? ''
+  : '19'
+  answer: Chicken and Tomato Sauce Pasta Recipe - Allrecipes
+  context: '["-Basil pesto sauce, sliced red tomatoes, cooked an d diced chicken,
+    caramelized onions, \\nmozzarella cheese  \\n-Creamy alfredo sauce, bacon pieces,
+    cooked and diced chicken, spinach  \\n-Tomato sauce, Canadian bacon, pineapple,
+    mozzarella cheese  \\n-BBQ sauce, chicken, red onions, mozzarella cheese  \\n-Tomato
+    or basil pe sto sauce, onions, green and red peppers, mushrooms, banana peppers,
+    \\nsundried tomatoes, spinach, feta cheese  \\n-Tomato sauce, fresh mozzarella
+    slices, fresh basil'', metadata={}), Document(page_content=''-Basil pesto sauce,
+    sliced red tomatoes, cooked an d diced chicken, caramelized onions, \\nmozzarella
+    cheese  \\n-Creamy alfredo sauce, bacon pieces, cooked and diced chicken, spinach  \\n-Tomato
+    sauce, Canadian bacon, pineapple, mozzarella cheese  \\n-BBQ sauce, chicken, red
+    onions, mozzarella cheese  \\n-Tomato or basil pe sto sauce, onions, green and
+    red peppers, mushrooms, banana peppers, \\nsundried tomatoes, spinach, feta cheese  \\n-Tomato
+    sauce, fresh mozzarella slices, fresh basil"]'
+  question: onions, chicken, garlic, peppers, tomatoes,  basil leaves
+- ? ''
+  : '20'
+  answer: 1/2 c. cream cheese (softened), 4 oz. cream cheese, 3 Tbsp. chopped fresh
+    herbs, salt to taste. Spread over mushrooms."
+  context: '["hummus, beans, cheese, cream cheese, etc.)'', metadata={}), Document(page_content=''hummus,
+    beans, cheese, cream cheese, etc.)"]'
+  question: mushrooms, sausages, tomatoes, tomatoes, mustard, eggs
+- ? ''
+  : '21'
+  answer: To make this dish taste good, I would recommend using fresh vegetables because
+    frozen vegetables will not have much of
+  context: "[\"46 \\\\n \\\\n \\\\n Broccoli Chickpea Stir -Fry \\\\n \\\\n2 tbsp.\
+    \  olive oil  \\\\n1 small onion, thinly sliced  \\\\n4 cloves garlic, minced\
+    \  \\\\nSalt and pepper  \\\\n1 \xBD heads broccoli, including stalks, trimmed\
+    \ and chopped (2 cups)  \\\\n1 (10.5 oz.) can chickpeas (aka garbanzo beans),\
+    \ drained and rinsed  \\\\n1/3 C chicken or vegetable broth  \\\\n\xBC tsp. crushed\
+    \ red pe pper  \\\\n1/3 C parmesan cheese (grated or shaved)  \\\\n \\\\n1. In\
+    \ a large skillet (preferably one with a lid), warm olive oil over medium heat\
+    \ until hot.', metadata={}), Document(page_content='46 \\\\n \\\\n \\\\n Broccoli\
+    \ Chickpea Stir -Fry \\\\n \\\\n2 tbsp.  olive oil  \\\\n1 small onion, thinly\
+    \ sliced  \\\\n4 cloves garlic, minced  \\\\nSalt and pepper  \\\\n1 \xBD heads\
+    \ broccoli, including stalks, trimmed and chopped (2 cups)  \\\\n1 (10.5 oz.)\
+    \ can chickpeas (aka garbanzo beans), drained and rinsed  \\\\n1/3 C chicken or\
+    \ vegetable broth  \\\\n\xBC tsp. crushed red pe pper  \\\\n1/3 C parmesan cheese\
+    \ (grated or shaved)  \\\\n \\\\n1. In a large skillet (preferably one with a\
+    \ lid), warm olive oil over medium heat until hot.\"]"
+  question: 'chickpeas, onion, tomatoes, pepper, '
+- ? ''
+  : '22'
+  answer: "Mushroom Creamy Tomato Bruschetta  \nSlice 2 (1 pound) mushrooms and set\
+    \ aside.\nIn a medium saucepan, saute 3 (1/2 cup) tomatoes for 8 minutes or until\
+    \ soft. Set aside.\nCombine 2 tablespoons olive oil, 2 cloves garlic, minced,\
+    \ salt to taste, and sliced mushrooms in a blender or food processor; pulse until\
+    \ well-cooked, about 5 minutes. Cook for an additional minute on the stovetop."
+  context: '["Mushrooms  \\nTomatoes  \\nOlives  \\nAvocado  \\n \\nCheese : \\nShredded
+    mozzarella, Swiss, cheddar, or any other favorite  \\nCrumbled blue cheese, goat
+    cheese, or feta cheese  \\nParmesan  \\n \\nNuts/Seeds:  \\nSlivered almonds  \\nWalnuts  \\nCashews  \\nPeanuts  \\nPumpkin
+    seeds  \\nSunflower seeds'', metadata={}), Document(page_content=''Mushrooms  \\nTomatoes  \\nOlives  \\nAvocado  \\n
+    \\nCheese : \\nShredded mozzarella, Swiss, cheddar, or any other favorite  \\nCrumbled
+    blue cheese, goat cheese, or feta cheese  \\nParmesan  \\n \\nNuts/Seeds:  \\nSlivered
+    almonds  \\nWalnuts  \\nCashews  \\nPeanuts  \\nPumpkin seeds  \\nSunflower seeds"]'
+  question: carrots, milk, suger, amonds, cashews, oil
+- ? ''
+  : '23'
+  answer: Mix tomatoes, peanuts, korma paste and garlic in a saucepan with 250g (1
+    cup) water. Boil, then reduce heat and simmer, covered, for about 30 minutes or
+    until thickened. Cook sweet potatoes and coriander in separate saucepans with
+    boiling water for
+  context: "[\"70 \\\\n \\\\n \\\\n Broccoli and Aged Cheddar Soup  \\\\n \\\\n\xBD\
+    \ yellow  onion, chopped  \\\\n3 large garlic cloves, minced  \\\\nOlive oil or\
+    \ butter  \\\\n1 head of broccoli and stem, woody part of stem removed and cut\
+    \ into smaller pieces  \\\\n2 palm size Yukon gold potatoes, peeled and cubed\
+    \  \\\\n1 large leaf of chard, chopped  \\\\n2 cups vegetable or chick en stock\
+    \ (can be made canned or made from bouillon)  \\\\n1 cup cream, half and half,\
+    \ or milk  \\\\n\xBD to 1 cup aged cheddar cheese  \\\\nSalt and pepper to taste',\
+    \ metadata={}), Document(page_content='70 \\\\n \\\\n \\\\n Broccoli and Aged\
+    \ Cheddar Soup  \\\\n \\\\n\xBD yellow  onion, chopped  \\\\n3 large garlic cloves,\
+    \ minced  \\\\nOlive oil or butter  \\\\n1 head of broccoli and stem, woody part\
+    \ of stem removed and cut into smaller pieces  \\\\n2 palm size Yukon gold potatoes,\
+    \ peeled and cubed  \\\\n1 large leaf of chard, chopped  \\\\n2 cups vegetable\
+    \ or chick en stock (can be made canned or made from bouillon)  \\\\n1 cup cream,\
+    \ half and half, or milk  \\\\n\xBD to 1 cup aged cheddar cheese  \\\\nSalt and\
+    \ pepper to taste\"]"
+  question: sweet potatoes ,korma paste,tomatoes,peanut, coriander,garlic
+- ? ''
+  : '24'
+  answer: Peanut butter oatmeal bowls are a tasty breakfast or snack option. You will
+    need to measure peanut butter and maple syrup in equal portions, then heat it
+    in microwave for 20 seconds until melted. Combine with oats and rice cereal snaps,
+    add chia seeds, vanilla extract and pinch of salt.
+  context: "[\"\xBD cup  rolled oats  \\\\n2/3 cup milk of choice (if using soy, rice,\
+    \ almond, or another non -dairy milk use unsweetened)  \\\\n1 tbsp. chia seeds\
+    \ or ground flax seeds  \\\\n\xBD tsp. vanilla extract  \\\\nPinch of salt  \\\
+    \\nUp to 2 tbsp. honey or maple syrup  \\\\n \\\\nOptional Mix -ins (these can\
+    \ be added before refrigerating or as toppings later) : \\\\nFruit (bananas, berries\
+    \ , peaches, apple chunks ) \\\\nNut butter  \\\\nCocoa powder  \\\\nCoconut \
+    \ \\\\nNuts', metadata={}), Document(page_content='\xBD cup  rolled oats  \\\\\
+    n2/3 cup milk of choice (if using soy, rice, almond, or another non -dairy milk\
+    \ use unsweetened)  \\\\n1 tbsp. chia seeds or ground flax seeds  \\\\n\xBD tsp.\
+    \ vanilla extract  \\\\nPinch of salt  \\\\nUp to 2 tbsp. honey or maple syrup\
+    \  \\\\n \\\\nOptional Mix -ins (these can be added before refrigerating or as\
+    \ toppings later) : \\\\nFruit (bananas, berries , peaches, apple chunks ) \\\\\
+    nNut butter  \\\\nCocoa powder  \\\\nCoconut  \\\\nNuts\"]"
+  question: peanut,  maple syrup, coconut oil, oats,rice snaps, mix seeds
+- ? ''
+  : '25'
+  answer: Mix balsamic glaze and watercress together on top of toasted bread, then
+    layer with mozzarella and bread. Repeat layers for 3 stacks."
+  context: '["Bread ...................................................................................................................................................................Easy
+    Mango Salsa..............................................................................................................................................................Fudgy'',
+    metadata={}), Document(page_content=''Bread ...................................................................................................................................................................Easy
+    Mango Salsa..............................................................................................................................................................Fudgy"]'
+  question: mozzarella, bread, balsamic glaze, watercress
+- ? ''
+  : '26'
+  answer: 'Baked Lentil and Vegetable Chili
+
+    Bake for 30 minutes at 400 degrees Fahrenheit.'
+  context: '["Lentils and Legumes\\nIf you love lentils, try these various healthy
+    and protein packed recipes made with different types of lentils and legumes.'',
+    metadata={}), Document(page_content=''Lentils and Legumes\\nIf you love lentils,
+    try these various healthy and protein packed recipes made with different types
+    of lentils and legumes."]'
+  question: Suger, lentils, oil
