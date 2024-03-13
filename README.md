@@ -9,3 +9,5 @@ conda create -n cookbook python=3.8 -y
 conda activate cookbook
 
 pip install -r requirements.txt
+
+python app.py
